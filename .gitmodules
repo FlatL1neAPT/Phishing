@@ -1,0 +1,3 @@
+[submodule "CredSniper"]
+	path = CredSniper
+	url = https://github.com/ustayready/CredSniper
