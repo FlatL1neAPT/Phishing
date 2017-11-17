@@ -1,3 +1,6 @@
 [submodule "CredSniper"]
 	path = CredSniper
 	url = https://github.com/ustayready/CredSniper
+[submodule "EvilURL"]
+	path = EvilURL
+	url = https://github.com/UndeadSec/EvilURL
