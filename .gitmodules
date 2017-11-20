@@ -4,3 +4,9 @@
 [submodule "EvilURL"]
 	path = EvilURL
 	url = https://github.com/UndeadSec/EvilURL
+[submodule "gophish"]
+	path = gophish
+	url = https://github.com/gophish/gophish
+[submodule "king-phisher"]
+	path = king-phisher
+	url = https://github.com/securestate/king-phisher
