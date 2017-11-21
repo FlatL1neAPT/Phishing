@@ -16,3 +16,7 @@ https://github.com/gophish/gophish<br>
 https://github.com/securestate/king-phisher<br>
 Фреймворк для создания продвинутых фишинговых компаний.<br>
 <br>
+<b>phishery</b><br>
+https://github.com/ryhanson/phishery<br>
+Phishery - это простой HTTP-сервер с поддержкой SSL, основной целью которого является фишинг учетных данных с помощью Basic Authentication. Phishery также предоставляет возможность легко вводить URL-адрес в документ Word .docx<br>
+<br>
