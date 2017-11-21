@@ -13,3 +13,6 @@
 [submodule "phishery"]
 	path = phishery
 	url = https://github.com/ryhanson/phishery
+[submodule "SocialEngineeringPayloads"]
+	path = SocialEngineeringPayloads
+	url = https://github.com/bhdresh/SocialEngineeringPayloads
