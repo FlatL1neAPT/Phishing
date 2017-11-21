@@ -10,3 +10,6 @@
 [submodule "king-phisher"]
 	path = king-phisher
 	url = https://github.com/securestate/king-phisher
+[submodule "phishery"]
+	path = phishery
+	url = https://github.com/ryhanson/phishery
