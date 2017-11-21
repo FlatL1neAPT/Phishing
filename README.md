@@ -20,3 +20,7 @@ https://github.com/securestate/king-phisher<br>
 https://github.com/ryhanson/phishery<br>
 Phishery - это простой HTTP-сервер с поддержкой SSL, основной целью которого является фишинг учетных данных с помощью Basic Authentication. Phishery также предоставляет возможность легко вводить URL-адрес в документ Word .docx<br>
 <br>
+<b>SocialEngineeringPayloads</b><br>
+https://github.com/bhdresh/SocialEngineeringPayloads<br>
+Коллекция методов и нагрузок для фишинга.<br>
+<br>
