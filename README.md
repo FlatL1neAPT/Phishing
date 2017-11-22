@@ -24,3 +24,7 @@ Phishery - это простой HTTP-сервер с поддержкой SSL, 
 https://github.com/bhdresh/SocialEngineeringPayloads<br>
 Коллекция методов и нагрузок для фишинга.<br>
 <br>
+<b>IP-Biter - Framework</b><br>
+https://github.com/damianofalcioni/IP-Biter<br>
+Фреймворк для трэкинга (отслеживание пользователей просмотревших контент).<br>
+<br>
