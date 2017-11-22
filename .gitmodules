@@ -16,3 +16,6 @@
 [submodule "SocialEngineeringPayloads"]
 	path = SocialEngineeringPayloads
 	url = https://github.com/bhdresh/SocialEngineeringPayloads
+[submodule "IP-Biter"]
+	path = IP-Biter
+	url = https://github.com/damianofalcioni/IP-Biter
