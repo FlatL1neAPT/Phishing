@@ -1,7 +1,10 @@
 # Phishing
 https://www.mailsploit.com/index - подмена отправителя онлайн.
 
-
+<b>Phishing Frenzy</b><br>
+https://github.com/pentestgeek/phishing-frenzy<br>
+Фреймворк для создания продвинутых фишинговых компаний.<br>
+<br>
 <b>CredSniper</b><br>
 https://github.com/ustayready/CredSniper<br>
 Фреймворк для перехвата токенов двухфакторной аутотефикации (2FA).<br>
