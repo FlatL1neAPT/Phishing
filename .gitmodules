@@ -19,3 +19,6 @@
 [submodule "IP-Biter"]
 	path = IP-Biter
 	url = https://github.com/damianofalcioni/IP-Biter
+[submodule "phishing-frenzy"]
+	path = phishing-frenzy
+	url = https://github.com/pentestgeek/phishing-frenzy
