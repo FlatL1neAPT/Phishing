@@ -7,7 +7,7 @@ https://github.com/pentestgeek/phishing-frenzy<br>
 <br>
 <b>judas</b><br>
 https://github.com/JonCooperWorks/judas<br>
-Прокси для фишинга с поддержкой ssl на Go.<br>
+Прокси для фишинга с поддержкой ssl на Go. Описание https://medium.com/@cooperthecoder/go-phishing-making-the-proxy-sneakier-3814fd085fb3<br>
 <br>
 <b>CredSniper</b><br>
 https://github.com/ustayready/CredSniper<br>
