@@ -5,6 +5,10 @@ https://www.mailsploit.com/index - подмена отправителя онл�
 https://github.com/pentestgeek/phishing-frenzy<br>
 Фреймворк для создания продвинутых фишинговых компаний.<br>
 <br>
+<b>judas</b><br>
+https://github.com/JonCooperWorks/judas<br>
+Прокси для фишинга с поддержкой ssl на Go.<br>
+<br>
 <b>CredSniper</b><br>
 https://github.com/ustayready/CredSniper<br>
 Фреймворк для перехвата токенов двухфакторной аутотефикации (2FA).<br>
