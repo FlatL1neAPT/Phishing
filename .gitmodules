@@ -22,3 +22,6 @@
 [submodule "phishing-frenzy"]
 	path = phishing-frenzy
 	url = https://github.com/pentestgeek/phishing-frenzy
+[submodule "judas"]
+	path = judas
+	url = https://github.com/JonCooperWorks/judas
