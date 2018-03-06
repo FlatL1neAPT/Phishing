@@ -1,6 +1,11 @@
 # Phishing
 https://www.mailsploit.com/index - подмена отправителя онлайн.
+https://mailchimp.com/ - массовая рассыка.
 
+<b>EvilGinx</b><br>
+https://github.com/pentestgeek/phishing-frenzy<br>
+Фреймворк для фишинга.<br>
+<br>
 <b>Phishing Frenzy</b><br>
 https://github.com/pentestgeek/phishing-frenzy<br>
 Фреймворк для создания продвинутых фишинговых компаний.<br>
