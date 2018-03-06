@@ -25,3 +25,6 @@
 [submodule "judas"]
 	path = judas
 	url = https://github.com/JonCooperWorks/judas
+[submodule "evilginx"]
+	path = evilginx
+	url = https://github.com/kgretzky/evilginx
